@@ -55,7 +55,6 @@ def main():
             "Passed_Checks": 0,
             "Failed_Checks": 0,
             "Findings": "",
-            "Validated_By": "Antigravity",
             "Timestamp": datetime.now().isoformat(),
         }
 
